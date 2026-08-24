@@ -9,18 +9,25 @@
 ## 🚀 Featured Projects
 
 ### 🤖 Multi-Agent Research System
-Multi-agent AI research assistant built with LangChain, Gemini, Tavily,
-BeautifulSoup, LCEL/Runnables and Streamlit.
 
-🔗 [Repository](https://github.com/ArpitaTrip1402/Multi-Agent-Research-System)
+AI-powered multi-agent research assistant built with LangChain, Gemini, Tavily, BeautifulSoup, LCEL/Runnables, and Streamlit.
 
-### 🌱 Plant Disease Detection
-CNN-based plant disease classification system using TensorFlow and
-Streamlit.
+🔗 [GitHub Repository](https://github.com/ArpitaTrip1402/Multi-Agent-Research-System) |
+🚀 [Live Demo](https://multi-agent-research-system-fgp3ttvdza7nacbxgxtf6d.streamlit.app/)
+
+### 🌱 Plant Disease Detection System
+
+CNN-based plant disease classification system built with TensorFlow and deployed for real-time prediction.
+
+🔗 [GitHub Repository](YOUR_PLANT_GITHUB_REPO_LINK) 
+🚀 [Live Demo](https://plant-disease-detection-1-1d4g.onrender.com/)
 
 ### 🎬 Movie Recommendation System
-Content-based recommendation system using cosine similarity,
-Scikit-learn and Streamlit.
+
+Content-based movie recommendation system using cosine similarity, Scikit-learn, Streamlit, and Docker.
+
+🔗 [GitHub Repository](YOUR_MOVIE_GITHUB_REPO_LINK) |
+🚀 [Live Demo](https://movie-recommender-m2u6.onrender.com)
 
 ### 📊 Customer Churn Prediction
 Machine learning pipeline using Scikit-learn, XGBoost and SMOTE.
