@@ -8,6 +8,13 @@
 
 ## 🚀 Featured Projects
 
+### 🔎 InsightRAG — RAG-Based Document Research System
+
+AI-powered document research assistant built with LangChain, Gemini, FAISS, PDF processing, and Streamlit for context-grounded question answering over PDF documents.
+
+
+🚀 [Live Demo](https://insightrag-h63dbddz4q3ytqfyevspid.streamlit.app/) 
+
 ### 🤖 Multi-Agent Research System
 
 AI-powered multi-agent research assistant built with LangChain, Gemini, Tavily, BeautifulSoup, LCEL/Runnables, and Streamlit.
