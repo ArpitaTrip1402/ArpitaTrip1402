@@ -23,9 +23,8 @@ An end-to-end machine learning application that predicts insurance charges and c
 - 🖥️ Developed a Streamlit dashboard and deployed the application using Docker and Render.
 
 **Tech:** Python, Scikit-learn, XGBoost, FastAPI, Streamlit, PostgreSQL, Docker, Render
-
-🔗 [GitHub Repository](https://github.com/ArpitaTrip1402/Insurance-Risk-System)  
-🚀 [Live API](https://insurance-risk-backend-pypl.onrender.com) | [API Documentation](https://insurance-risk-backend-pypl.onrender.com/docs)
+ 
+🚀 [Live]( https://insurance-risk-frontend.onrender.com)
 
 ### 🔎 InsightRAG — Document Research System
 
